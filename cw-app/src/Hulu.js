@@ -4,8 +4,8 @@ import './App.css';
 
 function Hulu(prop) {
   return (
-    <div>
-      <header>
+    <div className = "App">
+      <header className = "App-header">
         <p>Name: {prop.showInfo.name}</p>
         <p>Seasons: {prop.showInfo.season}</p>
         <p>Genre: {prop.showInfo.genre}</p>
