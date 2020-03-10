@@ -12,8 +12,8 @@ function App() {
   }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <img className='App-logo' src='https://assets.foxdcg.com/dpp-uploaded/images/articles/new/newgirl.jpg'></img>
+      <header className='Blue'>
         <Show showInfo = {show}></Show>
       </header>
     </div>
