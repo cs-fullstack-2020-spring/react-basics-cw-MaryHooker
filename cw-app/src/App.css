@@ -1,19 +1,17 @@
 .App {
   text-align: center;
-  background-color: rgb(42, 42, 112);
+  background-color: rgb(30, 30, 92);
 }
 
 .App-logo {
   height: 50vmin;
   pointer-events: none;
-  border-top: 10px solid rgb(42, 42, 112);
-  
+  border-top: 10px solid rgb(30, 30, 92);
 }
 
-
 .App-header {
-  background-color:rgb(192, 217, 238);
-  border-top: 8px solid rgb(42, 42, 112);
+  background-color:rgb(30, 30, 92);
+  border-top: 8px solid(30, 30, 92);
   min-height: 49vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +23,7 @@
 }
 
 .Blue{
-color: rgb(42, 42, 112);
+color: rgb(198, 198, 248);
 }
 
 
