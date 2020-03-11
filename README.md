@@ -1,5 +1,6 @@
 # React Basics CW
-
+#### Nice job. Looks like you accidentally deleted you class on the Hulu Component like we discussed in class so the text is the same color as the background. Once the class was added back it looks great!
+#### Score : 4/5
 Create a new react app
 
 Create a new Hulu Component
